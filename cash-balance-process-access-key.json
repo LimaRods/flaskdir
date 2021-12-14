@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cash-balance-process",
+  "private_key_id": "24f31ac13d8e62c4019d3f9f10fd5945f2cd6424",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQClD6Yyh3KuI10H\nzVRcQjqcBWQIMBOZ3M2Tu345mARNaeMJNEhIa1CbSjFZCUP2WzkiPNLwgVSR8srX\nJFvtxmYzZP5v3QzOULT9Kc9p/hB4m87NM3Da0Pbugo9D1g6onFK8rV9Cdtr4tSQ+\nLfV+rhlzrpe62/PWNniyG/OKIwshXfWjPtrqy2TEls0PdIKaS/NVxpLTMLhqxe7v\n6ZKKA5ECXepn0W1p56RfZJIWNs03ggabZi3MJj4YvliidcT60UUldOQ0pWl1pTwV\nFZsneBQA3GxOWNz4cEU8D033ld6e+pIJon6scFBoVPoCljQYur+VXqWu4ODoB4BZ\npCdfiOGPAgMBAAECggEAERxksbiZ2lR/KI0QEY+qDLzVqFr3hTaUYcazffFKLOOX\nrhTAk4VQcgYIbz7xz9WYFXpcXE3ulZdSO2hLrAP/rz8+eHE1X86SXJYw0r+MNzyL\np85ihMSEfKgwhYCTZ3Dry3RmO3kfwl2Lgsiij5MpFKAaSZF99GG+3v6Hyh+k3+dM\nyrWSnZFj8g4ZyIJFqoDbkVowyeQPAQJQ+xqrawWYshmu2n8bXQQD14upsez/vxKJ\nc2P1sWBoX7GBCpeQiLYsxjqN2wKIr+VE53hwHd60a33fIM8uaDVMcuKaxDeibPDC\nUVOKqWqhD6tf0TEENplLELSWoDuRmy7YiWXegwMQBQKBgQDYRyy+U3BF5/AVTfg6\nkEU4Q6EEzET04o14vjo4YPDAAyTLZW13KgBGPmIKXl3vZUsB0NGYVrwnCQUHr833\n82BZ87qR5Vq68cqdFgKzQi4DFJFvXGtVGdfvfHssmr97nC5DsVMziAj9YQ+JX7NQ\nIwZrxn06bW7ddDTdY2KckoQoJQKBgQDDYGPuNoCc5SckOsq1UrzUMkQ41T53KyX9\n8zKR6Kz8uy6CYwaGJk3Q1ajoqY8C1YBYc+KzPUDGlt9KP+KsThkcA4/tTYMm9AUl\nRugQtjAv4ITksLpISvo0vsdvEwepgnrxSbasJDxTGUqlk2/dpm3bd4X8TCVRxQiw\nNDhWvHRqowKBgB3OcVQpm6eGt4e4HyWzDFccuuw2WqqFLoodbVinw4Yy6Lc/Wz65\nAyCrKEfViYycoSG27avZCEU48QCGMhSh7f13oZbJzR9Gg23ywpyB2mWCSCjYy9IG\npcPTnAYhrZITjCy4G4dWkCabYdDE56l7qj7gNBIBUu4iPcblE4oQhzYhAoGAUPfp\nchd0RZFSH1meGHcpemc6jrMRKCHhpNTc6EsdJcANDkwrr/y/0wQ48/MRKYOBpSah\nlNaVubdc4lCHiBD1pv5y701oRQRr/X7dPc/DOJQ7fuseyEcKWkGWNRoV2tIQUV7T\nLZP2zBl3LhdkDN+kN4fZJy4HaVPWve9mScvgEzECgYBQchGNLLSAJsTEXWx9u0qu\nxfo7eFlTiTIIS4Uam6Qz/7xSEBOhljb1EloZxYBG8IAa4n/NmthGjC2FyUiV3Koe\nkMN9CyZli6JuYFOQt5VI+xLk6ARprhnHmpIxHxi7bkd/5Zf3KdAsOAaoEeoG6Y5R\nti0lQ9HvqF6WHYbqhOeyMg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nstar-robot@cash-balance-process.iam.gserviceaccount.com",
+  "client_id": "105286972022092617069",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nstar-robot%40cash-balance-process.iam.gserviceaccount.com"
+}
