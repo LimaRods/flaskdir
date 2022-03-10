@@ -36,7 +36,7 @@ def uncleared_amount(d0,d1,url_sheet):
         try:
             scope = ['https://www.googleapis.com/auth/spreadsheets',
                     'https://www.googleapis.com/auth/drive']
-            creds = Credentials.from_service_account_file("cash-balance-process-access-key.json", scopes=scope)
+            creds = Credentials.from_service_account_file("northstar-automation-key.json", scopes=scope)
             client = gspread.authorize(creds)
 
         except Exception as e:
