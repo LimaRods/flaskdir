@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "northstar-automation",
+  "private_key_id": "b5d6a648c1b555507fafefa30a64e5ccde74afe7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1MObEgrwO4qNT\nYGbYagBBvRmySag5lJ52+b0bVweNIl5W+8VKSs36ezAznMw7AeMw95w2IK5n4Ucg\nIemw6UtruqpycKjsmC4wZJjZiK/lP2BsDDCWoAgpX8yc9HXfEiF8q5av+oW/jQM2\nmY8AKOndIsam7VGHntSCVLLmHEvmED/knQW9Z5gOv98xl0Djp54PAzjZ9XwdE0/I\n/BHuVeFKUEkdgjy+HkiJ6EnWjvHB9d0o7EDTxuH5dYfpz1PMEolQJE/EfZ7nTTjO\nOZDeoTH9tnx2TO4dzEec/cKh6bKJC7yLwTz1uhOPphDgZi4/yUBqjpXBzZdH4gEz\nlbmgR6WnAgMBAAECggEAENFYKhdEY1FP/ZYuFZpJKdDmiLDjh2yvBLYLgnUig0wU\nW5iE6G9nDP/QKoo8PqHfN5VUD4YbChNT6bycF0qgMICj/3lLhKJfbyh3M4HHaczn\nI0BCZki2WTjGIi9inXDuYMcAdpcXQP9StAeuyUIC6v6mV6ohbigk62/3JvqrZNAm\n0gmn9RI9/2DiMrkOPKBvT7GWvoRvYkzMvs0JRSxxbrgZ1oDu2/6R5FbUs/uxByJe\nNT90fkkTgCsNlnceRxHx9YjwstvRPJFQm5MW3kKLqMqxuMeQxoOksw00znfeqQKK\nbGibCsyzDkpTZ4Jjr0m3njjHzDG4qs32vCa3IHpykQKBgQD8XC+rUdOsAZX4UJ00\n372cAyqUxnsU5V85ciOcT2EK/6J3J4pWxdo1OlqLmD7v+2GRenuFpn6IbQcl6DC+\nQ3CYckod+8PsHdbkPNQpzcfnHGKqc+lHoQgY/u9aeNfoeLZe7QMjGQdnLpN+M4eT\ntboC0oZPqh23YaKY+rNOw8GhKQKBgQC3ze5CG1s7OnOcEbMtp3fgoDLEegfPrrXv\n5AxYvfwXmZtn4edYBZaxLGy/QuIU7nVu7Bu7OtoY8EY+l2kbBI/iqfdkKu3LhDXD\n7Z2xahe1C5C8sdPTAmi5NulAkpbFWvufkZGkDPAJ5DEY2PuXew9/P43OnZ7Ahjn0\nnHrAaTraTwKBgQC1zANbO7ttMkdDd2+I45XIik9mlgWc7BBJZfxZYqXaMoZrqER0\ndlvX9I29+pN8dm+3SbEqeuK0jTaVDEvxBMxcRhk2uGRP+L8R9PAynVfhGgXKHW50\nd4FJ4H21g1Cm3C8k+0FDS4iVwGvogl6s/kFePyMayMZXkTJ9Wj1KBKO84QKBgDIP\n2scSoGSfZQGrKHxU0qfRukIdYqdEVLWEDYDWLiVXZyaCNvqYexTCntPxKZa95CpU\nELGMM/764ocFwlDjizUXShR0RNRbrDEzNPIvjUl4XvGmFaWxUEiyFhHKW1phj4tE\noMBn7bEj/+Nephf6Ipxr+Pm/oI+bf4mKXTyu7KKtAoGBAMWbC7to4ecGYddx0GJ9\nU/eJNApm9wq8Ooyv0x4cXpIGRPf+PGwUOOu/anwJHaoxJcpUJ2cdriYgkgvWLN8V\nC5637PJGUsD9nVz8VM5CIX/ah6LXFHeqMfPtxZSNRFvju3dBrlrlP+fSvZYh3L5t\nx+EvxZ/njyST2f/iNwmWacKY\n-----END PRIVATE KEY-----\n",
+  "client_email": "northstar-service-account@northstar-automation.iam.gserviceaccount.com",
+  "client_id": "116464649076172864934",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/northstar-service-account%40northstar-automation.iam.gserviceaccount.com"
+}
